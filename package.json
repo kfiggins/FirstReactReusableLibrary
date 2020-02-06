@@ -1,0 +1,32 @@
+{
+  "name": "FirstReactReusableLibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "styleguidist server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiggins/FirstReactReusableLibrary.git"
+  },
+  "keywords": [],
+  "author": "Kyler Figgins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfiggins/FirstReactReusableLibrary/issues"
+  },
+  "homepage": "https://github.com/kfiggins/FirstReactReusableLibrary#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "babel-loader": "^8.0.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-styleguidist": "^10.6.1",
+    "webpack": "^4.41.5"
+  }
+}
